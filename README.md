@@ -8,7 +8,7 @@ Domain Breakdown							Exam Percentages
 
 Domain 1: Responsible Al ----------------------------------------------------- 7%
 
-Domain 2: GitHub Copilot plans and features ---------------------------------- 31%
+Domain 2: GitHub Copilot plans and features -------------------------------- 31%
 
 Domain 3: How GitHub Copilot works and handles data -------------------------- 15%
 
