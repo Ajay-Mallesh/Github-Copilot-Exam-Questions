@@ -4,9 +4,21 @@ For Practice Only..
 
 				  GitHub Copilot Study Guide
       
-      <img width="844" alt="image" src="https://github.com/user-attachments/assets/f8f7a685-3e61-4c24-a1ee-d61a08294c2b" />
+Domain Breakdown							Exam Percentages
 
-		
+Domain 1: Responsible Al ----------------------------------------------------- 7%
+
+Domain 2: GitHub Copilot plans and features ---------------------------------- 31%
+
+Domain 3: How GitHub Copilot works and handles data -------------------------- 15%
+
+Domain 4: Prompt crafting and Prompt engineering ----------------------------- 9%
+
+Domain 5: Developer use cases for Al ----------------------------------------- 14%
+
+Domain 6: Testing with GitHub Copilot ---------------------------------------- 9%
+
+Domain 7: Privacy fundamentals and context exclusions ------------------------ 15%
 			
 
 
