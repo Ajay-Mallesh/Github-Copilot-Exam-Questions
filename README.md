@@ -2,7 +2,7 @@
 For Practice Only..
 
 
-							GitHub Foundations Study Guide
+				  GitHub Foundations Study Guide
 		
 			Domain		                          Percentage
 
