@@ -4,7 +4,7 @@ For Practice Only..
 
 							GitHub Foundations Study Guide
 		
-			            Domain				                                 Percentage
+			Domain		                          Percentage
 
 Domain 1:  Introduction to Git and GitHub -------------------------- 22% 
 
